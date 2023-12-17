@@ -13,7 +13,7 @@ A quick handwired macropad I built for a coworker so that he could sample Box Ja
 
 * 3 2u plate mounted [el cheapo stabilizers](https://www.amazon.com/gp/product/B096JQF1HH/).
 
-* 8 M1.6 x 5mm self tapping, [flat-headed screws](https://www.mcmaster.com/90485A411/).
+* 10 M1.6 x 5mm self tapping, [flat-headed screws](https://www.mcmaster.com/90485A411/).
 
 * 1 [Generic Pro micro RP2040 board]((https://www.aliexpress.us/item/3256805943704472.html)) or really any RP2040 based board, just be sure to use the same pins or edit the info.json file to match the ones you'll be using.
 
