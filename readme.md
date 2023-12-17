@@ -28,11 +28,11 @@ A quick handwired macropad I built for a coworker so that he could sample Box Ja
 * row1: GP0
 * row2: GP2, the `+`  key is wired to the end of this row.
 * row3: GP3
-* row4: GP5, the `INTRO` key is wired to the end of this row.
+* row4: GP5, the `ENTER` key is wired to the end of this row.
 
 ![pin-mappings](images/pin-mappings.png)
 
-Diodes are hooked into the rows, but if you solder them to the columns, remember to change the `diode_direction` to `ROW2COL` in the `info.json` file.
+Diodes are hooked into the rows, but if you solder them to the columns, remember to change `diode_direction` to `ROW2COL` in the `info.json` file.
 
 ## Firmware installation
 
