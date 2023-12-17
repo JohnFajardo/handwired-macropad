@@ -19,7 +19,7 @@ A quick handwired macropad I built for a coworker so that he could sample Box Ja
 
 * Solder, wires and soldering iron.
 
-## Pinout:
+## Pinout
 * col0: GP27
 * col1: GP20
 * col2: GP29
@@ -34,7 +34,7 @@ A quick handwired macropad I built for a coworker so that he could sample Box Ja
 
 Diodes are hooked into the rows, but if you solder them to the columns, remember to change the `diode_direction` to `ROW2COL` in the `info.json` file.
 
-## Firmware installation:
+## Firmware installation
 
 * After [setting up your QMK environment](https://docs.qmk.fm/#/getting_started_build_tools), copy the `handwired_macropad` folder into the `keyboards` directory of your QMK installation.
 
